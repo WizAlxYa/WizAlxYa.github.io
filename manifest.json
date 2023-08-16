@@ -1,6 +1,6 @@
 {
-    "name": "neuro_lk",
-    "short_name": "neuro_lk",
+    "name": "flutter_pwa",
+    "short_name": "flutter_pwa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
